@@ -1,0 +1,8 @@
+{
+  "name": "FrostVault - Freezer Inventory Tracker",
+  "description": "Keep track of freezer inventory, prevent food waste and freezer burn, track expiration dates, and organize compartments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
